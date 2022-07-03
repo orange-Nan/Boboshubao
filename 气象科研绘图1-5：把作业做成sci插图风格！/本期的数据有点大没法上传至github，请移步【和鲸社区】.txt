@@ -1,2 +1,14 @@
 本期的数据有点大，没法上传至github，请移步【和鲸社区】
 数据网址：https://www.heywhale.com/mw/dataset/62c1378d913a54a660304ea5/file
+
+也可以使用保留原数据的lat,lon,time,sst变量制作的【sst测试数据.zip】，解压为NC文件
+其中lat和lon变量按照画图区域进行了裁剪
+
+使用时将
+#读取数据
+lat = f.variables['lat'][34:55]
+lon = f.variables['lon'][65:146]
+改为：
+lat = f.variables['lat'][:]
+lon = f.variables['lon'][:]
+即可
