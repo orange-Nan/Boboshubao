@@ -4,6 +4,9 @@
 ## 也欢迎给鼠宝点小星星【Star】&复制到自己的仓库里学习【Fork】
 —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— ——
 
+无法下载文件可以移步淘宝：https://item.taobao.com/item.htm?id=682067052886
+
+—— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— ——
 视频版教程：b站【啵啵鼠宝】https://space.bilibili.com/508439345
 
 图文版教程：和鲸社区【啵啵鼠宝】https://www.heywhale.com/home/user/profile/61dd828ee0dd020017f5a7cc
